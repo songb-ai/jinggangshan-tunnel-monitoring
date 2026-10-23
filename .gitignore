@@ -1,0 +1,22 @@
+# 原始监测数据（8万+CSV，659MB，仓库不保存原始数据）
+2025.11-2026.1试运行/
+2026年1季度/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python 临时文件
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 临时产物
+*.tmp
+*.bak
+*.log

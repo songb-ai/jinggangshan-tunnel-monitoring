@@ -1,0 +1,3 @@
+﻿station,days,tmin,tmax,tmin_NovJan,tmax_NovJan,temp_mean,hum_mean,hum_max,wind_max,wind_mean,pres_mean,vis_min,vis_med,rain_proxy_days
+QXZ-YK665+835-DK-01,159,-1.6,36.7,-1.6,25.3,13.8,87.2,99.9,1.2,0.56,98.03,778,22764,84
+QXZ-ZK658+005-DK-01,159,-3.1,36.6,-3.1,25.8,12.7,92.8,99.9,1.0,0.42,97.72,1742,34947,34

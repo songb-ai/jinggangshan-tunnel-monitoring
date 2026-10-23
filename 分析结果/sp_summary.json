@@ -1,0 +1,255 @@
+{
+  "SYJ": [
+    {
+      "station": "SYL-YK659+165-YBQ-01",
+      "days": 128,
+      "freq_mean": 2628.5,
+      "freq_med": 2629.0,
+      "freq_min": 2604.4,
+      "freq_max": 2656.8,
+      "freq_range": 52.5,
+      "freq_std": 14.88,
+      "range_pct_of_mean": 1.997,
+      "max_daily_step": 23.16
+    },
+    {
+      "station": "SYL-ZK659+266-YBQ-01",
+      "days": 163,
+      "freq_mean": 2620.1,
+      "freq_med": 2615.6,
+      "freq_min": 2604.6,
+      "freq_max": 2638.8,
+      "freq_range": 34.3,
+      "freq_std": 11.65,
+      "range_pct_of_mean": 1.308,
+      "max_daily_step": 7.86
+    },
+    {
+      "station": "SYL-YK659+270-YBQ-01",
+      "days": 128,
+      "freq_mean": 2640.4,
+      "freq_med": 2641.3,
+      "freq_min": 2633.4,
+      "freq_max": 2646.7,
+      "freq_range": 13.3,
+      "freq_std": 3.59,
+      "range_pct_of_mean": 0.503,
+      "max_daily_step": 5.47
+    },
+    {
+      "station": "SYL-YK659+020-YBQ-01",
+      "days": 127,
+      "freq_mean": 2644.4,
+      "freq_med": 2644.2,
+      "freq_min": 2638.0,
+      "freq_max": 2648.8,
+      "freq_range": 10.7,
+      "freq_std": 2.28,
+      "range_pct_of_mean": 0.406,
+      "max_daily_step": 3.31
+    },
+    {
+      "station": "SYL-ZK659+206-YBQ-01",
+      "days": 163,
+      "freq_mean": 2636.2,
+      "freq_med": 2635.7,
+      "freq_min": 2631.0,
+      "freq_max": 2641.6,
+      "freq_range": 10.6,
+      "freq_std": 2.81,
+      "range_pct_of_mean": 0.402,
+      "max_daily_step": 2.25
+    },
+    {
+      "station": "SYL-YK659+210-YBQ-01",
+      "days": 128,
+      "freq_mean": 2571.7,
+      "freq_med": 2572.1,
+      "freq_min": 2564.5,
+      "freq_max": 2574.8,
+      "freq_range": 10.3,
+      "freq_std": 2.05,
+      "range_pct_of_mean": 0.402,
+      "max_daily_step": 3.06
+    },
+    {
+      "station": "SYL-YK661+707-YBQ-01",
+      "days": 130,
+      "freq_mean": 2656.0,
+      "freq_med": 2655.7,
+      "freq_min": 2653.4,
+      "freq_max": 2659.6,
+      "freq_range": 6.2,
+      "freq_std": 1.64,
+      "range_pct_of_mean": 0.234,
+      "max_daily_step": 2.39
+    },
+    {
+      "station": "SYL-ZK661+665-YBQ-01",
+      "days": 163,
+      "freq_mean": 2659.0,
+      "freq_med": 2659.0,
+      "freq_min": 2656.1,
+      "freq_max": 2662.1,
+      "freq_range": 6.0,
+      "freq_std": 1.62,
+      "range_pct_of_mean": 0.224,
+      "max_daily_step": 1.93
+    }
+  ],
+  "JYBJ": {
+    "n_stations": 75,
+    "top_freq_range": [
+      {
+        "station": "BML-YK659+100-ZGY-01",
+        "freq_range": 286.4,
+        "corr_f2_temp_full": -0.9938,
+        "corr_f2_temp_NovJan": -0.902
+      },
+      {
+        "station": "BML-ZK663+740-ZGY-01",
+        "freq_range": 185.6,
+        "corr_f2_temp_full": -0.9075,
+        "corr_f2_temp_NovJan": -0.5662
+      },
+      {
+        "station": "BML-ZK663+740-YGY-01",
+        "freq_range": 172.9,
+        "corr_f2_temp_full": 0.8779,
+        "corr_f2_temp_NovJan": 0.3025
+      },
+      {
+        "station": "BML-YK659+100-YGY-01",
+        "freq_range": 149.3,
+        "corr_f2_temp_full": -0.9751,
+        "corr_f2_temp_NovJan": -0.6704
+      },
+      {
+        "station": "BML-ZK663+720-ZGY-01",
+        "freq_range": 139.8,
+        "corr_f2_temp_full": -0.9708,
+        "corr_f2_temp_NovJan": -0.7872
+      },
+      {
+        "station": "BML-YK661+730-ZGY-01",
+        "freq_range": 137.7,
+        "corr_f2_temp_full": 0.7273,
+        "corr_f2_temp_NovJan": 0.7033
+      },
+      {
+        "station": "BML-YK661+730-GD-01",
+        "freq_range": 136.0,
+        "corr_f2_temp_full": 0.9802,
+        "corr_f2_temp_NovJan": 0.6001
+      },
+      {
+        "station": "BML-ZK661+640-GD-01",
+        "freq_range": 124.6,
+        "corr_f2_temp_full": 0.9409,
+        "corr_f2_temp_NovJan": 0.7307
+      },
+      {
+        "station": "BML-ZK661+640-YGY-01",
+        "freq_range": 121.2,
+        "corr_f2_temp_full": 0.9481,
+        "corr_f2_temp_NovJan": 0.6149
+      },
+      {
+        "station": "BML-YK661+680-YGY-01",
+        "freq_range": 120.8,
+        "corr_f2_temp_full": 0.9781,
+        "corr_f2_temp_NovJan": 0.6863
+      }
+    ],
+    "top_abs_corr": [
+      {
+        "station": "BML-ZK663+690-GD-01",
+        "freq_range": 48.2,
+        "corr_f2_temp_full": 0.9951,
+        "corr_f2_temp_NovJan": 0.9821
+      },
+      {
+        "station": "BML-ZK659+206-ZGY-01",
+        "freq_range": 83.2,
+        "corr_f2_temp_full": -0.8389,
+        "corr_f2_temp_NovJan": -0.9755
+      },
+      {
+        "station": "BML-ZK659+226-YGY-01",
+        "freq_range": 59.1,
+        "corr_f2_temp_full": -0.9574,
+        "corr_f2_temp_NovJan": -0.9654
+      },
+      {
+        "station": "BML-ZK659+206-GD-01",
+        "freq_range": 38.8,
+        "corr_f2_temp_full": 0.9753,
+        "corr_f2_temp_NovJan": 0.9473
+      },
+      {
+        "station": "BML-ZK659+246-YGY-01",
+        "freq_range": 88.5,
+        "corr_f2_temp_full": 0.8374,
+        "corr_f2_temp_NovJan": -0.9369
+      },
+      {
+        "station": "BML-ZK663+760-ZGY-01",
+        "freq_range": 41.0,
+        "corr_f2_temp_full": 0.9933,
+        "corr_f2_temp_NovJan": 0.926
+      },
+      {
+        "station": "BML-YK659+080-GD-01",
+        "freq_range": 44.7,
+        "corr_f2_temp_full": -0.8939,
+        "corr_f2_temp_NovJan": -0.9096
+      },
+      {
+        "station": "BML-YK659+190-ZGY-01",
+        "freq_range": 41.7,
+        "corr_f2_temp_full": 0.9885,
+        "corr_f2_temp_NovJan": 0.9052
+      },
+      {
+        "station": "BML-YK659+100-ZGY-01",
+        "freq_range": 286.4,
+        "corr_f2_temp_full": -0.9938,
+        "corr_f2_temp_NovJan": -0.902
+      },
+      {
+        "station": "BML-YK659+150-YGY-01",
+        "freq_range": 64.5,
+        "corr_f2_temp_full": 0.9944,
+        "corr_f2_temp_NovJan": 0.8959
+      }
+    ],
+    "check_YK659_100_ZGY": [
+      {
+        "station": "BML-YK659+100-ZGY-01",
+        "days": 119,
+        "freq_mean": 3677.8,
+        "freq_range": 286.4,
+        "freq_std": 116.25,
+        "temp_mean": 12.7,
+        "temp_range": 19.2,
+        "corr_f2_temp_full": -0.9938,
+        "corr_f2_temp_NovJan": -0.902,
+        "max_daily_step": 196.69
+      }
+    ],
+    "check_ZK663_740_ZGY": [
+      {
+        "station": "BML-ZK663+740-ZGY-01",
+        "days": 147,
+        "freq_mean": 3897.7,
+        "freq_range": 185.6,
+        "freq_std": 65.09,
+        "temp_mean": 15.6,
+        "temp_range": 15.6,
+        "corr_f2_temp_full": -0.9075,
+        "corr_f2_temp_NovJan": -0.5662,
+        "max_daily_step": 53.61
+      }
+    ]
+  }
+}

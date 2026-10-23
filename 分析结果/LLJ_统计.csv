@@ -1,0 +1,5 @@
+﻿station,days,flow_mean_full,flow_med_full,flow_max_full,flow_min_full,flow_range_full,flow_mean_NovJan,flow_max_NovJan,corr_flow_temp_daily,corr_flow_temp_NovJan
+SLL-YK658+480-BG-01,117,1.645,1.64,1.81,1.53,0.28,1.677,1.76,0.544,0.578
+SLL-YK665+339-BG-01,154,1.363,1.35,1.47,1.27,0.2,1.36,1.41,0.667,0.462
+SLL-ZK658+501-BG-01,155,2.144,2.28,2.39,0.96,1.43,2.3,2.38,0.136,0.356
+SLL-ZK665+342-BG-01,154,0.977,0.895,1.36,0.75,0.61,0.843,0.97,0.853,0.521

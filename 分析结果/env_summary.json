@@ -1,0 +1,398 @@
+{
+  "LLJ": [
+    {
+      "station": "SLL-YK658+480-BG-01",
+      "days": 117,
+      "flow_mean_full": 1.645,
+      "flow_med_full": 1.64,
+      "flow_max_full": 1.81,
+      "flow_min_full": 1.53,
+      "flow_range_full": 0.28,
+      "flow_mean_NovJan": 1.677,
+      "flow_max_NovJan": 1.76,
+      "corr_flow_temp_daily": 0.544,
+      "corr_flow_temp_NovJan": 0.578
+    },
+    {
+      "station": "SLL-YK665+339-BG-01",
+      "days": 154,
+      "flow_mean_full": 1.363,
+      "flow_med_full": 1.35,
+      "flow_max_full": 1.47,
+      "flow_min_full": 1.27,
+      "flow_range_full": 0.2,
+      "flow_mean_NovJan": 1.36,
+      "flow_max_NovJan": 1.41,
+      "corr_flow_temp_daily": 0.667,
+      "corr_flow_temp_NovJan": 0.462
+    },
+    {
+      "station": "SLL-ZK658+501-BG-01",
+      "days": 155,
+      "flow_mean_full": 2.144,
+      "flow_med_full": 2.28,
+      "flow_max_full": 2.39,
+      "flow_min_full": 0.96,
+      "flow_range_full": 1.43,
+      "flow_mean_NovJan": 2.3,
+      "flow_max_NovJan": 2.38,
+      "corr_flow_temp_daily": 0.136,
+      "corr_flow_temp_NovJan": 0.356
+    },
+    {
+      "station": "SLL-ZK665+342-BG-01",
+      "days": 154,
+      "flow_mean_full": 0.977,
+      "flow_med_full": 0.895,
+      "flow_max_full": 1.36,
+      "flow_min_full": 0.75,
+      "flow_range_full": 0.61,
+      "flow_mean_NovJan": 0.843,
+      "flow_max_NovJan": 0.97,
+      "corr_flow_temp_daily": 0.853,
+      "corr_flow_temp_NovJan": 0.521
+    }
+  ],
+  "PH": {
+    "raw_rows": 134519,
+    "invalid_rows": 46,
+    "stats": [
+      {
+        "station": "PHZ-YK659+020-YBQ-01",
+        "days": 120,
+        "ph_mean": 7.71,
+        "ph_med": 7.72,
+        "ph_max_inst": 7.91,
+        "ph_min_inst": 7.43,
+        "ph_range_inst": 0.48,
+        "ph_max_inst_NovJan": 7.79,
+        "ph_range_inst_NovJan": 0.24,
+        "ph_max_daily": 7.89,
+        "ph_min_daily": 7.46,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-YK659+165-YBQ-01",
+        "days": 120,
+        "ph_mean": 8.03,
+        "ph_med": 8.14,
+        "ph_max_inst": 10.26,
+        "ph_min_inst": 0.0,
+        "ph_range_inst": 10.26,
+        "ph_max_inst_NovJan": 10.26,
+        "ph_range_inst_NovJan": 10.26,
+        "ph_max_daily": 8.3,
+        "ph_min_daily": 7.36,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-YK659+210-YBQ-01",
+        "days": 7,
+        "ph_mean": 2.91,
+        "ph_med": 0.16,
+        "ph_max_inst": 7.96,
+        "ph_min_inst": 0.0,
+        "ph_range_inst": 7.96,
+        "ph_max_inst_NovJan": 7.96,
+        "ph_range_inst_NovJan": 7.96,
+        "ph_max_daily": 6.97,
+        "ph_min_daily": 0.0,
+        "min_below_6.5": 4,
+        "min_below_5.5": 4
+      },
+      {
+        "station": "PHZ-YK659+270-YBQ-01",
+        "days": 120,
+        "ph_mean": 7.2,
+        "ph_med": 7.17,
+        "ph_max_inst": 7.52,
+        "ph_min_inst": 7.05,
+        "ph_range_inst": 0.47,
+        "ph_max_inst_NovJan": 7.29,
+        "ph_range_inst_NovJan": 0.19,
+        "ph_max_daily": 7.48,
+        "ph_min_daily": 7.11,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-YK661+707-YBQ-01",
+        "days": 155,
+        "ph_mean": 10.04,
+        "ph_med": 10.32,
+        "ph_max_inst": 10.49,
+        "ph_min_inst": 8.47,
+        "ph_range_inst": 2.02,
+        "ph_max_inst_NovJan": 10.49,
+        "ph_range_inst_NovJan": 0.2,
+        "ph_max_daily": 10.42,
+        "ph_min_daily": 8.5,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-ZK659+206-YBQ-01",
+        "days": 155,
+        "ph_mean": 7.19,
+        "ph_med": 7.11,
+        "ph_max_inst": 8.15,
+        "ph_min_inst": 6.68,
+        "ph_range_inst": 1.47,
+        "ph_max_inst_NovJan": 7.61,
+        "ph_range_inst_NovJan": 0.87,
+        "ph_max_daily": 8.12,
+        "ph_min_daily": 6.73,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-ZK659+266-YBQ-01",
+        "days": 155,
+        "ph_mean": 10.84,
+        "ph_med": 11.31,
+        "ph_max_inst": 12.03,
+        "ph_min_inst": 8.13,
+        "ph_range_inst": 3.9,
+        "ph_max_inst_NovJan": 12.03,
+        "ph_range_inst_NovJan": 3.49,
+        "ph_max_daily": 11.99,
+        "ph_min_daily": 8.18,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      },
+      {
+        "station": "PHZ-ZK661+665-YBQ-01",
+        "days": 155,
+        "ph_mean": 9.58,
+        "ph_med": 9.52,
+        "ph_max_inst": 10.06,
+        "ph_min_inst": 9.21,
+        "ph_range_inst": 0.85,
+        "ph_max_inst_NovJan": 9.86,
+        "ph_range_inst_NovJan": 0.58,
+        "ph_max_daily": 10.03,
+        "ph_min_daily": 9.23,
+        "min_below_6.5": 0,
+        "min_below_5.5": 0
+      }
+    ]
+  },
+  "QXHJZ": {
+    "stats": [
+      {
+        "station": "QXZ-YK665+835-DK-01",
+        "days": 159,
+        "tmin": -1.6,
+        "tmax": 36.7,
+        "tmin_NovJan": -1.6,
+        "tmax_NovJan": 25.3,
+        "temp_mean": 13.8,
+        "hum_mean": 87.2,
+        "hum_max": 99.9,
+        "wind_max": 1.2,
+        "wind_mean": 0.56,
+        "pres_mean": 98.03,
+        "vis_min": 778,
+        "vis_med": 22764,
+        "rain_proxy_days": 84
+      },
+      {
+        "station": "QXZ-ZK658+005-DK-01",
+        "days": 159,
+        "tmin": -3.1,
+        "tmax": 36.6,
+        "tmin_NovJan": -3.1,
+        "tmax_NovJan": 25.8,
+        "temp_mean": 12.7,
+        "hum_mean": 92.8,
+        "hum_max": 99.9,
+        "wind_max": 1.0,
+        "wind_mean": 0.42,
+        "pres_mean": 97.72,
+        "vis_min": 1742,
+        "vis_med": 34947,
+        "rain_proxy_days": 34
+      }
+    ],
+    "rain_events_nov8": [
+      {
+        "station": "QXZ-YK665+835-DK-01",
+        "start": "2025-10-30",
+        "end": "2025-11-12",
+        "days": 14
+      },
+      {
+        "station": "QXZ-ZK658+005-DK-01",
+        "start": "2025-11-08",
+        "end": "2025-11-13",
+        "days": 6
+      }
+    ]
+  },
+  "WSD": {
+    "stats": [
+      {
+        "station": "WSD-YK659+040-YBQ-01",
+        "days": 118,
+        "temp_mean": 14.12,
+        "temp_min": 4.3,
+        "temp_max": 26.32,
+        "temp_range": 22.02,
+        "hum_mean": 75.44,
+        "hum_min": 48.76,
+        "hum_max": 97.46
+      },
+      {
+        "station": "WSD-YK661+750-YBQ-01",
+        "days": 156,
+        "temp_mean": 20.47,
+        "temp_min": 16.7,
+        "temp_max": 25.12,
+        "temp_range": 8.42,
+        "hum_mean": 64.76,
+        "hum_min": 34.11,
+        "hum_max": 98.42
+      },
+      {
+        "station": "WSD-YK664+730-YBQ-01",
+        "days": 155,
+        "temp_mean": 20.38,
+        "temp_min": 9.53,
+        "temp_max": 25.16,
+        "temp_range": 15.63,
+        "hum_mean": 64.47,
+        "hum_min": 31.34,
+        "hum_max": 97.23
+      },
+      {
+        "station": "WSD-ZK659+250-YBQ-01",
+        "days": 122,
+        "temp_mean": 18.17,
+        "temp_min": 7.62,
+        "temp_max": 24.32,
+        "temp_range": 16.7,
+        "hum_mean": 63.84,
+        "hum_min": 39.31,
+        "hum_max": 96.49
+      },
+      {
+        "station": "WSD-ZK661+670-YBQ-01",
+        "days": 123,
+        "temp_mean": 20.86,
+        "temp_min": 16.58,
+        "temp_max": 25.73,
+        "temp_range": 9.14,
+        "hum_mean": 55.5,
+        "hum_min": 31.74,
+        "hum_max": 90.92
+      },
+      {
+        "station": "WSD-ZK663+880-YBQ-01",
+        "days": 151,
+        "temp_mean": 18.58,
+        "temp_min": 9.5,
+        "temp_max": 27.0,
+        "temp_range": 17.51,
+        "hum_mean": 68.17,
+        "hum_min": 37.62,
+        "hum_max": 93.12
+      }
+    ],
+    "cmp": [
+      {
+        "station": "WSD-YK659+040-YBQ-01",
+        "temp_range_in": 22.14,
+        "temp_range_out": 29.6,
+        "range_ratio_in/out": 0.748,
+        "temp_corr_in_out": 0.937,
+        "best_lag_3h_units": 0,
+        "lag_hours": 0,
+        "hum_mean_in": 74.24,
+        "hum_mean_out": 85.35
+      },
+      {
+        "station": "WSD-YK661+750-YBQ-01",
+        "temp_range_in": 8.44,
+        "temp_range_out": 27.17,
+        "range_ratio_in/out": 0.311,
+        "temp_corr_in_out": 0.874,
+        "best_lag_3h_units": 5,
+        "lag_hours": 15,
+        "hum_mean_in": 65.45,
+        "hum_mean_out": 85.96
+      },
+      {
+        "station": "WSD-YK664+730-YBQ-01",
+        "temp_range_in": 15.09,
+        "temp_range_out": 27.17,
+        "range_ratio_in/out": 0.555,
+        "temp_corr_in_out": 0.842,
+        "best_lag_3h_units": -8,
+        "lag_hours": -24,
+        "hum_mean_in": 65.74,
+        "hum_mean_out": 85.96
+      },
+      {
+        "station": "WSD-ZK659+250-YBQ-01",
+        "temp_range_in": 15.91,
+        "temp_range_out": 27.49,
+        "range_ratio_in/out": 0.579,
+        "temp_corr_in_out": 0.859,
+        "best_lag_3h_units": 0,
+        "lag_hours": 0,
+        "hum_mean_in": 64.15,
+        "hum_mean_out": 85.55
+      },
+      {
+        "station": "WSD-ZK661+670-YBQ-01",
+        "temp_range_in": 8.98,
+        "temp_range_out": 27.17,
+        "range_ratio_in/out": 0.33,
+        "temp_corr_in_out": 0.868,
+        "best_lag_3h_units": 1,
+        "lag_hours": 3,
+        "hum_mean_in": 55.55,
+        "hum_mean_out": 85.71
+      },
+      {
+        "station": "WSD-ZK663+880-YBQ-01",
+        "temp_range_in": 17.04,
+        "temp_range_out": 27.17,
+        "range_ratio_in/out": 0.627,
+        "temp_corr_in_out": 0.924,
+        "best_lag_3h_units": 1,
+        "lag_hours": 3,
+        "hum_mean_in": 68.05,
+        "hum_mean_out": 85.83
+      }
+    ]
+  },
+  "LLJ_nov8_window": [
+    {
+      "station": "SLL-YK658+480-BG-01",
+      "date": "2025-11-05",
+      "flow": "1.75",
+      "temp": "16.5"
+    },
+    {
+      "station": "SLL-YK665+339-BG-01",
+      "date": "2025-11-05",
+      "flow": "1.36",
+      "temp": "15.9"
+    },
+    {
+      "station": "SLL-ZK658+501-BG-01",
+      "date": "2025-11-05",
+      "flow": "2.37",
+      "temp": "15.149999999999999"
+    },
+    {
+      "station": "SLL-ZK665+342-BG-01",
+      "date": "2025-11-05",
+      "flow": "0.96",
+      "temp": "15.8"
+    }
+  ]
+}
